@@ -417,7 +417,7 @@ if __name__ == '__main__':
     # print(main('CEMD-133'))
     # print(main('FC2-880652'))
     # print(main('PLA-018'))
-    # print(main('SIVR-060'))
+    print(main('SIVR-060'))
     # print(main('STCV-067'))
     # print(main('SIVR-100', 'https://javdb.com/v/x9KWn?locale=zh'))
     # print(main('MIDV-018'))
